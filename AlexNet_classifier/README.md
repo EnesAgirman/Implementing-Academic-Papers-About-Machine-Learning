@@ -18,7 +18,7 @@ The dataset contains over 25.000 images of cats and dogs taken from animal shelt
 
 ## Data Preprocessing
 
-1) We first unzip the data that is downloaded from the link given on moodle
+1) We first unzip the data that is downloaded from the given link and placed at the same directory as the code
 2) Iterate through the images in the unzipped dataset and divide them into train, validation and
 test folders. Create a pandas dataframe for each of them and store the classes of the images as 0
 or 1 in these dataframes
