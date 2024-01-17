@@ -1,4 +1,4 @@
-# AlexNet Implementation
+# ResNet Implementation
 
 **ResNet**: ResNet (Residual Network) is a deep convolutional neural network (CNN) architecture
 designed for image classification tasks. It was introduced in 2015 and is known for its deep network
