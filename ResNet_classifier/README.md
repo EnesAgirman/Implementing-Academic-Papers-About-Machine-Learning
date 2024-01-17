@@ -9,10 +9,8 @@ It was introduced in 2015 in the "Deep Residual Learning for Image Recognition" 
 
 [https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf ](https://arxiv.org/pdf/1512.03385.pdf?ref=blog.paperspace.com)
 
-Note: I experimented on changing the activation functions on the AlexNet architecture from ReLU to Leaky ReLU functions which gave me better results.
-
 ## Dataset
-Instead of implementing the alexnet architecture on the ImageNet dataset, I implemented the same neural network architecture 
+Instead of implementing the ResNet architecture on the ImageNet dataset, I implemented the same neural network architecture 
 on the microsoft cats and dogs dataset whiich can be obtained from the following link:
 
 https://www.microsoft.com/en-us/download/details.aspx?id=54765
