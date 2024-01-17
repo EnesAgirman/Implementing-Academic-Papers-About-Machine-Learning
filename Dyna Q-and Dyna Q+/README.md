@@ -10,6 +10,6 @@ To solve these tasks, 3 algorithms are used:
 - Dyna Q- (Dyna Q Algorithm without Exploration Bonus)
 - Dyna PI (Dyna Policy Iteration Algorithm)
 
-In this project, I only implemented Dyna Q+ and Dyna Q- algorithms and I obtained the results given in the 7th page of paper which are the end results.
+In this project, I only implemented Dyna Q+ and Dyna Q- algorithms and I obtained the results given in the 7th page of paper which are the end results. dyna_q_together_1.ipynb is used to draw the 1st graph and dyna_q_together_2.ipynb is used to obtain the 2nd graph on the 7th page of the paper.
 
 To get rid of the randomness noise, I did the same experiment for 100 times and got the average of the results. I used the same hyperparameters given in the paper
